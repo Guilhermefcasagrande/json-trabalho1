@@ -1,13 +1,15 @@
-[
-  {
-    "id": 1,
-    "nome": "Guilherme",
-    "curriculo": "Teste"
-  },
-  {
-    "id": 2,
-    "nome": "André",
-    "curriculo": "Teste2"
-  }
-]
+{
+  professores: [
+    {
+      "id": 1,
+      "nome": "Guilherme",
+      "curriculo": "Teste"
+    },
+    {
+      "id": 2,
+      "nome": "André",
+      "curriculo": "Teste2"
+    }
+  ]
+}
 
