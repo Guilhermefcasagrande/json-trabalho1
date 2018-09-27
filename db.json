@@ -1,5 +1,5 @@
 {
-  professores: [
+  "professores": [
     {
       "id": 1,
       "nome": "Guilherme",
