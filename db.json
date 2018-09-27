@@ -1,9 +1,7 @@
 {
-  "titulo": "JSON x XML",
-  "resumo": "o duelo de dois modelos de representação de informações"
- },
-{
-  "titulo": "JSON x XML",
-  "resumo": "o duelo de dois modelos de representação de informações"
- }
+  "cliente": {
+        "nome": "Joao da Silva",
+        "telefone": "9999999"
+    }
+}
 
