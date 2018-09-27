@@ -1,7 +1,13 @@
-{
-  "cliente": {
-        "nome": "Joao da Silva",
-        "telefone": "9999999"
-    }
-}
+[
+  {
+    "id": 1,
+    "body": "some comment",
+    "postId": 1
+  },
+  {
+    "id": 2,
+    "body": "some comment",
+    "postId": 1
+  }
+]
 
