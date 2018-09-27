@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "body": "some comment",
-    "postId": 1
+    "nome": "Guilherme",
+    "curriculo": "Teste"
   },
   {
     "id": 2,
-    "body": "some comment",
-    "postId": 1
+    "nome": "André",
+    "curriculo": "Teste2"
   }
 ]
 
