@@ -1,3 +1,10 @@
-{
-  teste: 'teste'
-}
+[
+   {
+     "titulo": "JSON x XML",
+     "resumo": "o duelo de dois modelos de representação de informações"
+    },
+   {
+     "titulo": "JSON x XML",
+     "resumo": "o duelo de dois modelos de representação de informações"
+    }
+]
