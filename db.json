@@ -4,12 +4,14 @@
       "id": 1,
       "nome": "Guilherme",
       "sobrenome": "Casagrande",
+      "photoUrl": "https://www.meuautotrac.com.br/wp-content/uploads/2018/03/carro-mais-rapido-2.png",
       "curriculo": "Teste"
     },
     {
       "id": 2,
       "nome": "André",
       "sobrenome": "Reif",
+      "photoUrl": "https://www.meuautotrac.com.br/wp-content/uploads/2018/03/carro-mais-rapido-2.png",
       "curriculo": "Teste"
     }
   ]
